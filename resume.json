@@ -1,10 +1,10 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
+  "resume_title": "name - CV",
+  "name": "Name",
   "repo": "https://github.com/joyeecheung/resume.git",
-  "job_description": ["前端工程师", "软件工程师"],
+  "job_description": ["spcae", "spcae"],
   "contact": {
     "phone": "13824481874",
     "email": "joyeec9h3@gmail.com",
@@ -61,7 +61,7 @@
       "score": "616"
     }],
     "description": [
-      "能流畅阅读英文专业书籍、论文、文档、博客、技术新闻及其他资料",
+      "spcae",
       "可无字幕观看 MOOC 课程、开发者大会视频",
       "能够在英文邮件列表、技术论坛、Stack Overflow 上正常交流"
     ]
